@@ -26,7 +26,7 @@ pip install pandas
 This section provides an overview of the research process.
 
 ### Tobii Software
-All data was collected using the [Tobii Eye Tracking Software](https://www.tobii.com/).
+All data was collected using the [Tobii X2-60 Eye Tracking Software](https://www.tobii.com/).
 
 Tobii classified eyegaze events to **3 categories**: fixation, saccades, and unclassified.
  
@@ -69,6 +69,5 @@ Once the participant had finished examining the charts, they were given a series
 
 Thank you for visiting my repository. Your suggestions and feedback are greatly appreciated! I hope this resource proves helpful to your research!
 
-Kevin Xie
 kevinxie2024@gmail.com
 
